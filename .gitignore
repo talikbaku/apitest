@@ -1,3 +1,4 @@
-node_modules
-test/test2.js
+.DS_Store
+/node_modules/
+/test/test2.js
 .idea
